@@ -1,16 +1,31 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: This is a blog about Machine Learning and Web scraping techniques on Python stack. Will be happy if it helps to somebody
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Short intro
+My name is Evgeny Arnautov (aka Datalker). I have a pretty diverse IT 10 years experience from Perl/PHP scripting to project management and IT Strategy consulting. Now I'm workign a Data scientist. And my main passion with Machine Learning with focus on Deep learning and AI.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### About this blog
+This blog has several goals:
 
-What else do you need?
+- Structure and capture insights along the learning way (I believe it has no end :))
+- I'm receiving much support from community, it's time to become useful as well
+- Get new input/comments/points of view from reader. It's always valuable
 
-### my history
+### Tech stack I mainly use
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Python3 as core
+- Data exploration: SciPy (Pandas, Numpy, Jupyter)
+- Machine learning (not NN): scikit-learn
+- Neural nets: Keras over Tensorflow
+- Visualization: Bokeh and Matplotlib
+- Web scraping: Scrapy + ScrapingHub
+
+### Profiles
+
+- [Twitter](https://twitter.com/datalker1)
+- [LinkedIn](https://ru.linkedin.com/in/evgeny-arnautov-7824123b)
+- [Upwork](http://www.upwork.com/o/profiles/users/_~01526949f700c41de6/)
+
