@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Long/short start with LSTM
+title: '[placeholder] Long/short start with LSTM'
 date: '2017-01-08'
 tag: LSTM
 subtitle: Experience with LSTM
