@@ -94,7 +94,7 @@ share-links-active:
 disqus: "datalker"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-89935126-1"
 
 # Facebook App ID
 # fb_app_id: ""
