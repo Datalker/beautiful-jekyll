@@ -2,6 +2,7 @@
 layout: post
 title: 'Keras - my own pros et contras [Draft]'
 published: true
+comments: true
 ---
 Here I will describe what do I like and what not about Keras framework. Before going further need to mention tw obvious disclaimers: 
 
