@@ -45,15 +45,15 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Evgeny Arnautov
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: Datalker    # eg. daattali
+#  email: "youremail@domain.com"
+#  facebook: yourname  # eg. daattali
+#  github: Datalker    # eg. daattali
   twitter: datalker1   # eg. daattali
 #  reddit: yourname    # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-#  linkedin: yourname  # eg. daattali
+  linkedin: evgeny-arnautov-7824123b  # eg. daattali
 #  xing: yourname      # eg. daattali
-#  stackoverflow: yourlink  # eg. "3943160/daattali"
+  stackoverflow: 6453024/datalker  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
 #  instagram: yourname # eg. daattali
 #  youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -67,11 +67,11 @@ footer-links-active:
   email: false
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   snapchat: false
   instagram: false
   youtube: false
