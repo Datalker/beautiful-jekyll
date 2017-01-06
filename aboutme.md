@@ -24,4 +24,4 @@ This blog has several goals:
 - Web scraping: Scrapy + ScrapingHub
 
 ### Contact
-Just drop me a note. Links to my profiles at at footer
+Just drop me a note - social profiles are below
