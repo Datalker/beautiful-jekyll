@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RNN for variable length sequences in Keras
+title: '[in process] RNN for variable length sequences in Keras'
 bigimg: /img/path.jpg
 published: true
 tag: RNN Keras
