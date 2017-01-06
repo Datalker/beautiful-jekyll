@@ -23,9 +23,5 @@ This blog has several goals:
 - Visualization: Bokeh and Matplotlib
 - Web scraping: Scrapy + ScrapingHub
 
-### Profiles
-
-- [Twitter](https://twitter.com/datalker1)
-- [LinkedIn](https://ru.linkedin.com/in/evgeny-arnautov-7824123b)
-- [Upwork](http://www.upwork.com/o/profiles/users/_~01526949f700c41de6/)
-
+### Contact
+Just drop me a note. Links to my profiles at at footer
