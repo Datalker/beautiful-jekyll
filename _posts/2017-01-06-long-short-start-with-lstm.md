@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Long/short start with LSTM
 date: '2017-01-08'
 tag: LSTM
