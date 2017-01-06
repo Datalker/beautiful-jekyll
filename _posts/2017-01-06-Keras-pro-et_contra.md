@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keras - my own pros et contras [Draft]'
+title: '[in process] Keras - my own pros and cons'
 published: true
 comments: true
 ---
