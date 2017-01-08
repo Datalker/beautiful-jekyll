@@ -5,18 +5,18 @@ subtitle: This is a blog about Machine Learning and Web scraping techniques on P
 ---
 
 ### Short intro
-My name is Evgeny Arnautov (aka Datalker). I have a pretty diverse IT 10 years experience from Perl/PHP scripting to project management and IT Strategy consulting. Now I'm workign a Data scientist. And my main passion with Machine Learning with focus on Deep learning and AI.
+My name is Evgeny Arnautov (aka Datalker). I have 10 years of a diverse IT experience spreading from Perl/PHP scripting to project management and IT Strategy consulting. Now I'm working as a Data scientist and doing Web scraping in spare time as freelancer. Main area of interest and growth for now is Machine Learning with focus on Deep learning and AI.
 
 ### About this blog
 This blog has several goals:
 
-- Structure and capture insights along the learning way (I believe it has no end :))
-- I'm receiving much support from community, it's time to become useful as well
-- Get new input/comments/points of view from reader. It's always valuable
+- Structure and capture insights along the learning way
+- I'm receiving much support from community, so probably it's time to pay back
+- Get new inputs/comments/points of view from readers. they are always valuable
 
 ### Tech stack I mainly use
 
-- Python3 as core
+- Python
 - Data exploration: SciPy (Pandas, Numpy, Jupyter)
 - Machine learning (not NN): scikit-learn
 - Neural nets: Keras over Tensorflow
